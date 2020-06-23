@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c073331f-e6ef-4b1b-8925-a1ce0781ab23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Glowny folder MojaJava\Moje programy\SwingAppicationTeach" />
+        <option value="E:\Glowny folder MojaJava\Moje programy\SwingAppicationTeach\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dUqOlrKFHCpnNA1qqRjNddSrox" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/SwingAppicationTeach-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="radioButton" />
+      <recent name="eventAction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clock.Main" />
+      <module name="SwingAppicationTeach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="radioButton.Main" />
+      <module name="SwingAppicationTeach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="radioButton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.mariusz.lyszczarz.Main" />
+      <module name="SwingAppicationTeach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.mariusz.lyszczarz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eventAction.Main3" />
+      <module name="SwingAppicationTeach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eventAction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eventAction.Main4" />
+      <module name="SwingAppicationTeach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eventAction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c073331f-e6ef-4b1b-8925-a1ce0781ab23" name="Default Changelist" comment="" />
+      <created>1592489992325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592489992325</updated>
+      <workItem from="1592489999650" duration="13278000" />
+      <workItem from="1592504259968" duration="28000" />
+      <workItem from="1592515427258" duration="14623000" />
+    </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1592898950941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592898950941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated">
+      <created>1592909150572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592909150572</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="357" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1592547464432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="357" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592547464432" />
+    <state x="282" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592490450452">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="282" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592490450452" />
+    <state x="696" y="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592516887924">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1592516887924" />
+    <state x="904" y="84" key="CommitChangelistDialog2" timestamp="1592909148580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="904" y="84" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592909148580" />
+    <state x="718" y="256" key="FileChooserDialogImpl" timestamp="1592909025619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="256" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592909025619" />
+    <state x="395" y="351" key="Github.ShareDialog" timestamp="1592515463334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="395" y="351" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592515463334" />
+    <state x="240" y="163" key="Github.UntrackedFilesDialog" timestamp="1592515529879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="240" y="163" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592515529879" />
+    <state width="1044" height="238" key="GridCell.Tab.0.bottom" timestamp="1592897972688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592897972639" />
+    <state width="1044" height="238" key="GridCell.Tab.0.center" timestamp="1592897972612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="238" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592897972612" />
+    <state width="1044" height="238" key="GridCell.Tab.0.left" timestamp="1592897972574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="238" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592897972574" />
+    <state width="1044" height="238" key="GridCell.Tab.0.right" timestamp="1592897972612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="238" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592897972612" />
+    <state width="1044" height="294" key="GridCell.Tab.1.bottom" timestamp="1592504189941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="294" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592504189941" />
+    <state width="1044" height="294" key="GridCell.Tab.1.center" timestamp="1592504189941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="294" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592504189941" />
+    <state width="1044" height="294" key="GridCell.Tab.1.left" timestamp="1592504189941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="294" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592504189941" />
+    <state width="1044" height="294" key="GridCell.Tab.1.right" timestamp="1592504189941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1044" height="294" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592504189941" />
+    <state x="952" y="222" key="Vcs.Push.Dialog.v2" timestamp="1592909152374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="952" y="222" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592909152374" />
+    <state x="247" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1592515428412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="247" y="281" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592515428412" />
+    <state x="480" y="349" key="extract.method.dialog" timestamp="1592577967035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="480" y="349" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592577967035" />
+  </component>
+</project>
