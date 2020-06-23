@@ -44,6 +44,8 @@ public class Main {
         frame.setLocation((int)(widthScreen/2-dimension.getWidth()/2),(int)(heightScreen/2-dimension.getHeight()/2));
         frame.setIconImage(Toolkit.getDefaultToolkit().getImage("light_bulb.png"));
 
+        getNimbusLookAndFeelUI(frame);
+
         initComponent();
         frame.setSize(dimension);
         frame.setVisible(true);
@@ -145,5 +147,22 @@ public class Main {
 
     public static void main(String[] args) {
         new Main();
+    }
+
+    private void getNimbusLookAndFeelUI(JFrame jFrame) {
+        //https://docs.oracle.com/javase/tutorial/uiswing/lookandfeel/color.html
+        try {
+            UIManager.setLookAndFeel("com.sun.java.swing.plaf.nimbus.NimbusLookAndFeel");
+            UIManager.put("nimbusBlueGrey",Color.LIGHT_GRAY);
+            SwingUtilities.updateComponentTreeUI(jFrame);
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        } catch (InstantiationException e) {
+            e.printStackTrace();
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (UnsupportedLookAndFeelException e) {
+            e.printStackTrace();
+        }
     }
 }
